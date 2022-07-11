@@ -1,11 +1,15 @@
 ## Welcome to Muona's Portfolio
 
-###Home Pages Sample 1 
+### Sample Websites
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please review the sample websites below. 
 
+1. Design Sample 1 (Home Page, Pricing Info)[Sample1](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+2. Design Sample 2 (Home Page, Pricing Info) [Sample2](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MGMals/WebsitesPortfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. Design Sample 3 (Home Page, Pricing Info) [Sample3](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+4. Design Sample 4 (Home Page, Pricing Info) [Sample4](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 
